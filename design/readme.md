@@ -1,0 +1,1 @@
+This folder contains UI design draft for Android. Please use 720p to design UI.

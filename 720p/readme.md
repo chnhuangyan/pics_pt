@@ -1,0 +1,1 @@
+This folder contains 720p pictures for Android. Please use .mipmap format pictures.
